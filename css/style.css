@@ -68,6 +68,10 @@ article table{
     border-spacing: 0;
 }
 
+article table th.text{
+    width: 50%;
+}
+
 /* sfondi */
 
 .odd{
@@ -78,4 +82,18 @@ article table{
 
 .bg-blue{
     background-color: #20A9E5;
+}
+
+.image{
+    width: 208px;
+    height: 160px;
+    border: 1px solid red;
+    margin-bottom: 10px;
+}
+#img-monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+#img-graph{
+    background-image: url("../img/graph.jpg");
 }
