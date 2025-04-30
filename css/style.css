@@ -38,3 +38,18 @@ header {
 #logo img{
     height: 100px;
 }
+
+/* testi */
+
+.text-blue{ 
+    color: #20A9E5;
+
+}
+
+.text-white{
+    color: #ffffff;
+}
+
+.text-grey{
+    color: #818181;
+}
