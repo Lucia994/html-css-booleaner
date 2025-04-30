@@ -1,7 +1,40 @@
-h1 {  
-    color:blu;
+/* general */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
 }
-p { 
-    background-color: white;
-    color: black;
+body {
+    font-family: "Roboto", sans-serif;
+    color: rgb(42, 41, 41);
+} 
+
+h1 {font-size: 3em;
+
+}
+
+header, main, footer{
+    padding: 20px;
+}
+
+/* utilities */
+
+.highlight {
+    background-color: #FFFF00;
+}
+
+/* header */
+header {
+
+    background-color:#4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 35%;
+}
+
+#logo {
+    height: 100px;
+}
+
+#logo img{
+    height: 100px;
 }
