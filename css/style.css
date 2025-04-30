@@ -53,3 +53,12 @@ header {
 .text-grey{
     color: #818181;
 }
+
+/* spaziature*/
+.p-10{
+    padding: 10px;
+}
+
+article p, article table, article ul {
+    padding: 10px 0px;
+}
