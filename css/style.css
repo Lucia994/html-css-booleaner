@@ -62,3 +62,20 @@ header {
 article p, article table, article ul {
     padding: 10px 0px;
 }
+
+article table{
+    text-align: left;
+    border-spacing: 0;
+}
+
+/* sfondi */
+
+.odd{
+
+    background-color:#B1E5F2 ;
+}
+
+
+.bg-blue{
+    background-color: #20A9E5;
+}
